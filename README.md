@@ -1,4 +1,4 @@
-# 💻 Olá, eu sou o Kaíque! 👋 🎓
+# 💻 Kaíque Nunes
 
 <p align="left">
   <kbd>Estudante de Ciência da Computação | Ciência de Dados & Desenvolvimento</kbd>
@@ -39,13 +39,15 @@ Atualmente, busco minha primeira oportunidade de **estágio** em ciência de dad
 <table align="left" border="0">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=0110101101100001&show_icons=true&theme=tokyonight&border_color=A0C3FF&title_color=A0C3FF&text_color=FFFFFF&icon_color=A0C3FF&count_private=true&score=true" alt="GitHub Stats Card" />
+      <img src="https://github-readme-stats.vercel.app/api?username=0110101101100001&show_icons=true&theme=tokyonight&border_color=A0C3FF&title_color=A0C3FF&text_color=FFFFFF&icon_color=A0C3FF&count_private=true" alt="GitHub Stats Card" />
     </td>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0110101101100001&layout=compact&theme=tokyonight&border_color=A0C3FF&title_color=A0C3FF&text_color=FFFFFF" alt="Top Langs Card" />
     </td>
   </tr>
 </table>
+
+<br><br><br><br><br><br><br><br><br><br>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br> ### 🎮 Fora do Código
 - 🖱️ Planejando a próxima estratégia no **Deadlock**.
