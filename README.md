@@ -12,8 +12,8 @@ Atualmente, busco minha primeira oportunidade de **estágio** em ciência de dad
 - **Formação em Ciência de Dados** – Avanti / FBuni (Farias Brito) 📊
 
 <p align="left">
-  <img src="https://img.shields.io/github/stars/SEU-USUARIO?style=flat-square&logo=github&color=33CC33&label=ESTRELAS" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/SEU-USUARIO?style=flat-square&logo=github&color=3399FF&label=SEGUIDORES" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/0110101101100001?style=flat-square&logo=github&color=33CC33&label=ESTRELAS" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/0110101101100001?style=flat-square&logo=github&color=3399FF&label=SEGUIDORES" alt="GitHub Followers" />
 </p>
 
 ---
@@ -31,7 +31,7 @@ Atualmente, busco minha primeira oportunidade de **estágio** em ciência de dad
 </p>
 
 ### 📂 Projeto em Destaque
-- **[Dashboard Palmer Penguins](LINK-DO-REPOSITORIO-AQUI):** Visualização interativa e análise exploratória de dados biológicos utilizando Python e bibliotecas de visualização. 🐧
+- **[Dashboard Palmer Penguins]((https://github.com/0110101101100001/palmer-penguins-dashboard)):** Visualização interativa e análise exploratória de dados biológicos utilizando Python e bibliotecas de visualização. 🐧
 
 > 💡 *Estou constantemente atualizando meus repositórios com novos desafios acadêmicos e projetos pessoais.*
 
@@ -39,10 +39,10 @@ Atualmente, busco minha primeira oportunidade de **estágio** em ciência de dad
 <table align="left" border="0">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&border_color=A0C3FF&title_color=A0C3FF&text_color=FFFFFF&icon_color=A0C3FF&count_private=true&score=true" alt="GitHub Stats Card" />
+      <img src="https://github-readme-stats.vercel.app/api?username=0110101101100001&show_icons=true&theme=tokyonight&border_color=A0C3FF&title_color=A0C3FF&text_color=FFFFFF&icon_color=A0C3FF&count_private=true&score=true" alt="GitHub Stats Card" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&border_color=A0C3FF&title_color=A0C3FF&text_color=FFFFFF" alt="Top Langs Card" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0110101101100001&layout=compact&theme=tokyonight&border_color=A0C3FF&title_color=A0C3FF&text_color=FFFFFF" alt="Top Langs Card" />
     </td>
   </tr>
 </table>
@@ -55,5 +55,5 @@ Atualmente, busco minha primeira oportunidade de **estágio** em ciência de dad
 
 ### 📫 Vamos nos conectar?
 <p align="left">
-<a href="SEU-LINK-DO-LINKEDIN"><kbd>LinkedIn</kbd></a> | <a href="mailto:SEU-EMAIL@EXEMPLO.COM"><kbd>Email</kbd></a>
+<a href="kaiquenvf@gmail.com"><kbd>LinkedIn</kbd></a> | <a href="mailto:https://www.linkedin.com/in/kaique-nunes-vasconcelos-fraga-580867286/"><kbd>Email</kbd></a>
 </p>
