@@ -1,4 +1,4 @@
-# 💻 Olá, eu sou o [Seu Nome]! 👋 🎓
+# 💻 Olá, eu sou o Kaíque! 👋 🎓
 
 <p align="left">
   <kbd>Estudante de Ciência da Computação | Ciência de Dados & Desenvolvimento</kbd>
