@@ -31,7 +31,7 @@ Atualmente, busco minha primeira oportunidade de **estágio** em ciência de dad
 </p>
 
 ### 📂 Projeto em Destaque
-- **[Dashboard Palmer Penguins]((https://github.com/0110101101100001/palmer-penguins-dashboard)):** Visualização interativa e análise exploratória de dados biológicos utilizando Python e bibliotecas de visualização. 🐧
+- **[Dashboard Palmer Penguins](https://github.com/0110101101100001/palmer-penguins-dashboard):** Visualização interativa e análise exploratória de dados biológicos utilizando Python e bibliotecas de visualização. 🐧
 
 > 💡 *Estou constantemente atualizando meus repositórios com novos desafios acadêmicos e projetos pessoais.*
 
