@@ -1,4 +1,4 @@
-# ⚡ Kaíque Nunes
+# 💻 Kaíque Nunes
 > Estudante de Ciência da Computação focado em **Ciência de Dados** & **Software Design**.
 
 Busco transformar dados em inteligência e construir soluções escaláveis. Atualmente focado em conquistar minha primeira oportunidade de **estágio** na área tech.
@@ -11,7 +11,7 @@ Busco transformar dados em inteligência e construir soluções escaláveis. Atu
 ### 🛠️ Tecnologias & Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sql,docker,js,html,css,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,docker,js,html,css,git,vscode" />
   </a>
 </p>
 
@@ -21,10 +21,10 @@ Busco transformar dados em inteligência e construir soluções escaláveis. Atu
 ---
 
 ### 📊 Github Stats
-<p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=0110101101100001&show_icons=true&theme=transparent&title_color=A0C3FF&text_color=FFFFFF&icon_color=A0C3FF&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0110101101100001&layout=compact&theme=transparent&title_color=A0C3FF&text_color=FFFFFF&hide_border=true" />
-</p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=0110101101100001&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ---
 
